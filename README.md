@@ -570,18 +570,9 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ## License
 
-Copyright (C) 2025 IntegSec
+Copyright (c) 2026 IntegSec
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-
-**Special Note for Nmap Distribution:**
-This script is provided under GPL v3 or later. In accordance with Nmap's license requirements, this script may also be distributed under the Nmap Public Source License (NPSL) or the Nmap license when distributed as part of the official Nmap distribution. When distributed independently of Nmap, the GPL v3 or later applies.
-
-You should have received a copy of the GNU General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-For more information about Nmap's license, see: https://nmap.org/book/man-legal.html
+Released under the [MIT License](LICENSE).
 
 ## References
 
